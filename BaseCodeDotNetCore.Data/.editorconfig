@@ -1,0 +1,34 @@
+﻿[*.cs]
+
+# SA1101: Prefix local calls with this
+dotnet_diagnostic.SA1101.severity = none
+
+# SA1600: Elements should be documented
+dotnet_diagnostic.SA1600.severity = silent
+
+# CA1303: Do not pass literals as localized parameters
+dotnet_diagnostic.CA1303.severity = silent
+
+# IDE0058: Expression value is never used
+csharp_style_unused_value_expression_statement_preference = discard_variable:silent
+
+# SA1118: Parameter should not span multiple lines
+dotnet_diagnostic.SA1118.severity = silent
+
+# CA1814: Prefer jagged arrays over multidimensional
+dotnet_diagnostic.CA1814.severity = silent
+
+# CA1062: Validate arguments of public methods
+dotnet_diagnostic.CA1062.severity = silent
+
+# SA1601: Partial elements should be documented
+dotnet_diagnostic.SA1601.severity = silent
+
+# CA1034: Nested types should not be visible
+dotnet_diagnostic.CA1034.severity = silent
+
+# SA1402: File may only contain a single type
+dotnet_diagnostic.SA1402.severity = silent
+
+# CA2227: Collection properties should be read only
+dotnet_diagnostic.CA2227.severity = suggestion

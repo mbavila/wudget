@@ -1,0 +1,10 @@
+.vs/
+BaseCodeDotNetCore.API/bin/
+BaseCodeDotNetCore.API/obj/
+BaseCodeDotNetCore.Data/bin/
+BaseCodeDotNetCore.Data/obj/
+BaseCodeDotNetCore.Domain/bin/
+BaseCodeDotNetCore.Domain/obj/
+BaseCodeDotNetCore.API/BaseCodeDotNetCore.API.csproj.user
+BaseCodeDotNetCore.Utils/bin/
+BaseCodeDotNetCore.Utils/obj/
